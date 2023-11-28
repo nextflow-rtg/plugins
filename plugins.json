@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "nf-watcher",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://github.com/nextflow-rtg/nf-watcher/releases/download/0.1.0/nf-watcher-0.1.0.zip",
+        "date": "2023-11-28T15:01:11.121513503+13:00",
+        "sha512sum": "3efe60a86e13eafe50211cfe60b6adde8a3f18642c160f03b0470a18d2463b33b21f71ee77b7714e7dd98a9a21fd0a1dd2332d00c358d34a14383c61d37a641c",
+        "requires": ">=22.10.0"
+      }
+    ]
+  }
+]
