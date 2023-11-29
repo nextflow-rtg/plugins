@@ -8,6 +8,13 @@
         "date": "2023-11-28T15:01:11.121513503+13:00",
         "sha512sum": "3efe60a86e13eafe50211cfe60b6adde8a3f18642c160f03b0470a18d2463b33b21f71ee77b7714e7dd98a9a21fd0a1dd2332d00c358d34a14383c61d37a641c",
         "requires": ">=22.10.0"
+      },
+      {
+        "version": "0.1.1",
+        "url": "https://github.com/nextflow-rtg/nf-watcher/releases/download/0.1.1/nf-watcher-0.1.1.zip",
+        "date": "2023-11-29T13:00:26.652683+13:00",
+        "sha512sum": "85cdbfd0dd36c6bfb7e4ae91831c7ef4666fb10896bc90d4a8003944fddd7e62d9a4fd2f3ee64e6e8f40d94948010640009f0e0e26c4428cfe9f0d4650ab03ea",
+        "requires": ">=22.10.0"
       }
     ]
   }
