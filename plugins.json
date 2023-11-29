@@ -17,5 +17,17 @@
         "requires": ">=22.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-cache",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://github.com/nextflow-rtg/nf-cache/releases/download/0.1.0/nf-cache-0.1.0.zip",
+        "date": "2023-11-29T13:40:05.664178+13:00",
+        "sha512sum": "37cd11a2c9d57b19c77f858a7bb77d83b5e1bc5b27bf9637a68c2ae26a07cfa2ab0b53c5436e9e7b6289501a8aaed93361b797caed47ea143eb670bcddf40cfd",
+        "requires": ">=22.10.0"
+      }
+    ]
   }
 ]
